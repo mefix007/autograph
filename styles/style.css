@@ -92,6 +92,7 @@ p {
 .mainbody {
     width: fit-content;
 }
+
 footer {
     margin-top: 15px;
     border-top: 1px solid #000;
@@ -107,6 +108,7 @@ footer {
     padding: 0;
     margin: 0 auto;
 }
+
 ul {
     display: block;
     background: #d4d0f5;
@@ -115,4 +117,9 @@ ul {
 iframe {
     height: 13rem;
     border: 0;
+}
+
+.sociolinks {
+    justify-content: end;
+    display: flex;
 }
